@@ -12,12 +12,6 @@ This workbook shows how to apply natural language processing to understand the s
 
 ---
 
-### Files
-
-[Starter Notebook](Starter_Code/crypto_sentiment.ipynb)
-
----
-
 ### Instructions
 
 #### Sentiment Analysis
