@@ -12,8 +12,6 @@ This workbook shows how to apply natural language processing to understand the s
 
 ---
 
-### Instructions
-
 #### Sentiment Analysis
 
 Use the [newsapi](https://newsapi.org/) to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
